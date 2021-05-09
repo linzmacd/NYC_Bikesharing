@@ -1,9 +1,13 @@
-#  NYC Citibike Analysis
+#  NYC Citibike Analysis - in progress
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview 
+
+Explain the purpose of this analysis.
 
 
-## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image. 
+## Results
+
+Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image. 
 
 [NYC CitiBikes Story](https://public.tableau.com/profile/lindsay.macdonald#!/vizhome/NYCCitiBikeDashboard_16195910975670/NYCCitiBikes)
 
@@ -32,6 +36,8 @@
 ![slide6.PNG](images/slide6.PNG)
 
 
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary
+
+Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 
