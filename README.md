@@ -41,7 +41,6 @@ There two distinct categories of users that comprise the majority of CitiBike's 
 There are additional factors that will affect service usage that should be considered when choosing potential expansion cities that could be explored through further inverstigation and would add to our visualizations: 
 - weather/climate
 - pre-existing public transport
-- social environment
  
 
 
